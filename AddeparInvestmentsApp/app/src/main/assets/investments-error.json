@@ -1,0 +1,4 @@
+{
+    "error": "invalid_permission",
+    "error_description": "User does not have proper permissions to access this data."
+}

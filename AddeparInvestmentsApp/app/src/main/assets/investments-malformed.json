@@ -1,0 +1,42 @@
+{
+	"investments" : [
+	    {
+            "name" : "Netflx",
+            "ticker" : "NFLX",
+            "value": "8900000000",
+            "principal": "5000000000",
+            "details": "A video production company, streaming giant, and maker of movies."
+        },
+        {
+            "name" : "Amazn",
+            "ticker" : "AMZN",
+            "value": "1100000000",
+            "principal": "2000000000",
+            "details": "A company that needs no introduction."
+        },
+        {
+            "name" : "Watch Portfolio",
+            "value": "8500000",
+            "principal": "2000000",
+            "details": "A private watch portfolio that is not publicly traded."
+        },
+        {
+            "ticker" : "FBTC",
+            "value": "500000000",
+            "principal": "11000",
+            "details": "A well known cryptocurrency fund."
+        },
+        {
+            "name" : "Ethereum",
+            "value": "15000000",
+            "principal": "25000000",
+            "details": "Another well known cryptocurrency that is owned on-chain"
+        },
+        {
+            "name" : "Private Equity Fund 15",
+            "value": "600000",
+            "principal": "200000",
+            "details": "An investment in a private equity fund."
+        }
+	]
+}
